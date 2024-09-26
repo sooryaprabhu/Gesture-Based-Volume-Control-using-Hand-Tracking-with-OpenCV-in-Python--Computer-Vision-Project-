@@ -2,6 +2,7 @@
 # Hand Tracking Volume Control
 This project utilizes computer vision techniques to track hand movements using the MediaPipe library and OpenCV in Python. It allows controlling system volume by changing the distance between specific hand landmarks detected in real-time.
 
+![image](https://github.com/user-attachments/assets/4dca3db3-3704-49d8-9d92-bc5ff2b1e36a)
 
 
 The program continuously captures video frames from the webcam and processes them to detect hand landmarks using the MediaPipe Hands model. It calculates the distance between two specific landmarks on the hand (e.g., thumb tip and index finger tip) to adjust the system volume accordingly.
