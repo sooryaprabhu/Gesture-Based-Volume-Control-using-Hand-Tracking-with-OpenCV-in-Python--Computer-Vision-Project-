@@ -1,6 +1,8 @@
 
-# Hand Tracking Volume Control
+# Hand Tracking Volume Control(Computer Vision Project)
 This project utilizes computer vision techniques to track hand movements using the MediaPipe library and OpenCV in Python. It allows controlling system volume by changing the distance between specific hand landmarks detected in real-time.
+![image](https://github.com/user-attachments/assets/9bff3405-d77e-4876-bba4-9fb7b9ab3347)
+
 
 ![image](https://github.com/user-attachments/assets/4dca3db3-3704-49d8-9d92-bc5ff2b1e36a)
 
